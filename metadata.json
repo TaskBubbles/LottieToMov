@@ -1,0 +1,5 @@
+{
+  "name": "Lottie to MOV Converter",
+  "description": "Batch convert Lottie JSON files to high-quality ProRes 4444 MOV with alpha background, scaled up to at least 1000x1000 resolution.",
+  "requestFramePermissions": []
+}
